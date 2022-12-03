@@ -19,5 +19,12 @@ export const task_list: Task [] = [
         title_task: "Commitear en Git",
         day: "Todos los dias",
         reminder: true
+    },
+
+    {
+        id: 4,
+        title_task: "Stadew Valley forum",
+        day: "Ni idea",
+        reminder: false
     }
 ]
